@@ -1,0 +1,10 @@
+1) Build content getter + rating + helpful
+2) Build polar word base
+3) Build multiplier word base (exp)
+4) Enable sql support and modded dictionary in previous SA
+	structure of knowledgeBase.db :
+wordBase = (word,	positivity,	negativity,	isNuetral)
+multiplierBase = (word,		multiply, 	divide) -> experimental
+
+5) learn and enable sarcasm detection
+6) learn and enable emoji detection
